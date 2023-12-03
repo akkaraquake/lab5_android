@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">лаб5</string>
+    <string name="text">Привет, мир!</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="blue">Синий</string>
+    <string name="black">Чёрный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="color">Цвет</string>
+    <string name="background_2">Альтернативный фон</string>
+    <string name="addtextfield">Добавить текстовое поле</string>
+    <string name="exit">Выход</string>
+</resources>
